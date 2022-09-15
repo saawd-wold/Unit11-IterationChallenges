@@ -13,7 +13,7 @@ next i
 ```basic
 'Pseudocode 2
 s = "ShineJesusShine"
-for end = 5 to 15 step 5
+for end = 4 to 14 step 5
     print(s.substring(0, end))
 next end
 ```
