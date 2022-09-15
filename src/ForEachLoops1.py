@@ -1,0 +1,1 @@
+teachers = ["Mr Rattle", "Mr Sääw", "Mr Nunes", "Mrs McKenna", "Dr Klinge", "Dr Dohni", "Ms Kaaber-Gore", "Mr Lopez", "Mme Emery", "Mrs Clayton"]
