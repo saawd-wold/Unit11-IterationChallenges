@@ -2,22 +2,22 @@
 
 ## For-Loops
 
-1) Look at each given piece of pseudocode. In the folder `ans/ForLoops1Outputs/` fill the files `Out1.txt`, `Out2.txt` and `Out3.txt` with the outputs tht each piece of pseudocode would produce. 
-```basic
+1) Look at each given piece of pseudocode. In the folder `ans/ForLoops1Outputs/` fill the files `Out1.txt`, `Out2.txt` and `Out3.txt` with the outputs that each piece of pseudocode would produce. 
+```vba
 'Pseudocode 1
 x = 2
 for i = 1 to 4
     print(x)
 next i
 ```
-```basic
+```vba
 'Pseudocode 2
 s = "ShineJesusShine"
 for end = 4 to 14 step 5
     print(s.substring(0, end))
 next end
 ```
-```basic
+```vba
 'Pseudocode 3
 'assume prime(x) is true if x is a prime number 
 'else false. assume sqrt(x) is the sqare root of x.
@@ -60,7 +60,7 @@ next round
 1) In `src/WhileLoops1.py`, write a program that receives an integer as input from the user and doubles it repeatedly as long as the number is less than 1000, printing each number encountered during this process that is less than 1000. If the given number is not positive, output only `Invalid number given.`.
 2) In `src/WhileLoops2.py`, complete the code that has been begun for you to write a program that receives a positive integer from the user and determines the binary representation, using at least one while-loop. 
 
-   *To add a character `c` to a string `s`, you can use `s.append(c)`.* 
+   *To add a character `c` to the end of a string `s`, you can use `s = s + c`.* 
 
 ## Do-Until-Loops
 

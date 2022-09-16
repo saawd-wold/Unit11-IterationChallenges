@@ -8,5 +8,6 @@ binary = ""
 # then determine whether each should get a 1 or a 0. 
 # You may not assume that the number is smaller than 
 # some value (I will test it with a _very_ large number!). 
-# Use binary.append(bit) once you have figured out the value 
-# of the next bit.
+# Use 
+# binary = binary + bit 
+# once you have figured out the value of the next bit.
