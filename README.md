@@ -191,3 +191,5 @@ end until 1>0
 ```
 
 Some languages also provide do-while loops and until-do loops. Try to figure out how these work yourself!
+
+Hello fleur and Hanna, this is a callback to that first lesson!
