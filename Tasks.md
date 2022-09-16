@@ -33,7 +33,7 @@ next round
 
    *You only have to complete the line pointed out by the comment, everything else is already set up for you.*
 
-3) In `src/ForLoops3.py`, write a Python program which uses the `range` function to produce a times table in the style of the following (also going up to $12 \times 12$):
+3) In `src/ForLoops3.py`, write a Python program which uses the `range` function to produce a times table in the style of the following (also going from $1 \times 1$ up to $12 \times 12$):
 ```
 1 * 1 = 1
 1 * 2 = 2
@@ -57,7 +57,7 @@ next round
 
 ## While-Loops
 
-1) In `src/WhileLoops1.py`, write a program that receives an integer as input from the user and doubles it repeatedly as long as the number is less than 1000, printing each number encountered during this process that is less than 1000.
+1) In `src/WhileLoops1.py`, write a program that receives an integer as input from the user and doubles it repeatedly as long as the number is less than 1000, printing each number encountered during this process that is less than 1000. If the given number is not positive, output only `Invalid number given.`.
 2) In `src/WhileLoops2.py`, complete the code that has been begun for you to write a program that receives a positive integer from the user and determines the binary representation, using at least one while-loop. 
 
    *To add a character `c` to a string `s`, you can use `s.append(c)`.* 
